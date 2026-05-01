@@ -17,17 +17,6 @@ Everything is in a brand new repo like the assignment required.
 
 ---
 
-## Structure
-repo/
-└── terraform/ (or infra/)
-    ├── provider.tf
-    ├── vpc.tf
-    ├── local.tf
-    ├── outputs.tf
-    ├── .gitignore
-
----
-
 ## How I did it
 - Set up Terraform and authenticated to GCP
 - Wrote provider config using Google provider
