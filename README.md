@@ -1,6 +1,6 @@
 # Retry creating the README file
 
-content = """# GCP Terraform VPC Lab
+
 
 ## Overview
 This project is a basic Terraform build in GCP. The goal was to create a VPC, generate a file locally, and output the VPC name.
